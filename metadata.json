@@ -1,0 +1,6 @@
+{
+  "name": "MOVIE BOX",
+  "description": "Upload, search, watch, stream, and download movies easily. Features high-quality bilingual UI and AI-powered details auto-generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
